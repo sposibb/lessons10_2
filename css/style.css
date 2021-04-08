@@ -1,0 +1,67 @@
+*,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 41px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #3c3c3c;
+  text-align: center;
+  margin-top: 98px;
+  margin-bottom: 44px;
+}
+header p {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #3c3c3c;
+  text-align: center;
+  margin-bottom: 84px;
+}
+.picture {
+  width: 269px;
+  height: 269px;
+  margin-bottom: 10px;
+}
+h3 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  color: #282528;
+}
+main p {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 17px;
+  color: #646464;
+}
+.picture_hover {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  background: #00aed9;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: ;
+}
+a {
+  border: ;
+  margin: 2px;
+  background-color: #ffffff50;
+}
